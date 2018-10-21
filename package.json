@@ -1,6 +1,6 @@
 {
   "name": "@ryubro/redux-action-creator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creating Redux action type and action creator",
   "main": "index.js",
   "types": "index.d.ts",
@@ -11,5 +11,9 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^23.6.0"
+  },
+  "repository": "github:ryubro/redux-action-creator",
+  "publishConfig": {
+    "access": "public"
   }
 }
