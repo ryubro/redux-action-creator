@@ -1,6 +1,6 @@
 {
   "name": "@ryubro/redux-action-creator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Creating Redux action type and action creator",
   "main": "index.js",
   "types": "index.d.ts",
@@ -10,7 +10,7 @@
   "author": "ByoungYong Kim",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^23.6.0"
+    "jest": "^24"
   },
   "repository": "github:ryubro/redux-action-creator",
   "publishConfig": {
