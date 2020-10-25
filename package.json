@@ -10,7 +10,7 @@
   "author": "ByoungYong Kim",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24"
+    "jest": "^26.6.1"
   },
   "repository": "github:ryubro/redux-action-creator",
   "publishConfig": {
