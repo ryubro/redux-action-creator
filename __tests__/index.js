@@ -1,4 +1,3 @@
-// import { createTypesAndActions, createAsyncTypesAndActions } from '../index';
 const { createAsyncTypesAndActions, createTypesAndActions } = require('../index');
 
 describe('createTypesAndActions', () => {
