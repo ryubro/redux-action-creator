@@ -1,7 +1,7 @@
 ## Usage
 
 ```javascript
-import { createTypesAndActions, createAsyncTypesAndActions } from 'redux-type-action-creator';
+import { createTypesAndActions, createAsyncTypesAndActions } from '@ryubro/redux-type-action-creator';
 
 const nameSpace = 'ONBOARDING';
 const { types } = createTypesAndActions(nameSpace, [ 'GO_TO_NEXT', 'GO_TO_PREV' ]);
